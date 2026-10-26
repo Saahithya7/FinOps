@@ -1,0 +1,6 @@
+{
+  "name": "FinOps AI — Financial Operations & Customer Service Platform",
+  "description": "Enterprise fintech SaaS platform for financial operations, credit risk modeling, fraud investigation, customer service, and role-based workspace management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
